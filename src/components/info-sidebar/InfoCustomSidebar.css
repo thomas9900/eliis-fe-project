@@ -1,0 +1,5 @@
+@media (max-width: 990px) {
+  .demo-app-sidebar {
+    width: 100% !important;
+  }
+}
